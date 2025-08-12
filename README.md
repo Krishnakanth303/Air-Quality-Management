@@ -4,13 +4,6 @@
   Real-time dashboard for monitoring air quality and weather conditions in Bengaluru, Karnataka.<br>
   Built with Node.js, Express, HTML, CSS, Chart.js, and OpenWeatherMap API.
 </p>
-
-<p align="center">
-  <img src="client/assets/dashboard-top.png" alt="Dashboard Top Screenshot" width="100%">
-  <br><br>
-  <img src="client/assets/dashboard-bottom.png" alt="Dashboard Bottom Screenshot" width="100%">
-</p>
-
 ---
 
 ## 🚀 Overview
@@ -183,3 +176,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file.
 ---
 
 <p align="center"><strong>Made with ❤️ for a cleaner, smarter Bengaluru 🌱</strong></p>
+
